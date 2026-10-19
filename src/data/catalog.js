@@ -1,6 +1,6 @@
 export const CFG = {
   mp: { endpoint: "/api/create-preference", link: "" },
-  tel: ["5493870000001", "5493870000002", "5493870000003"],
+  tel: ["5493872205367", "5493872205367", "5493872205367"],
   social: [
     ["Instagram", "@nortetech", "https://www.instagram.com/"],
     ["TikTok", "@nortetech", "https://www.tiktok.com/"],
